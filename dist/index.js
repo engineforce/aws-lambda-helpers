@@ -155,7 +155,7 @@ module.exports = require("lodash/filter");
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/pongli/my/git/engineforce/libs/packages/aws-lambda-helpers/index.js */6);
+module.exports = __webpack_require__(/*! /Users/pli/my/git/engineforce/libs/packages/aws-lambda-helpers/index.js */6);
 
 
 /***/ }),
