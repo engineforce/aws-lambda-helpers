@@ -1,6 +1,6 @@
 {
   "name": "@engineforce/aws-lambda-helpers",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "AWS Lambda helpers",
   "main": "./dist/index.js",
   "author": "Paul Li",
